@@ -62,7 +62,7 @@ The PCB integrates the interfaces required for the:
 
 
 *PCB overview*
-![PCB overview](./Demo/Top&bottom_layers.png)
+![PCB overview](./Demo/Overview.png)
 
 
 *HDMI display test*
