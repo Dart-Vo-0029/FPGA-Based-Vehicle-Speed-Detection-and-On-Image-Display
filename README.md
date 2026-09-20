@@ -46,7 +46,10 @@ The PCB integrates the interfaces required for the:
 * Power and peripheral connections
 
 ## System Architecture
+*Block diagram*
 ![Block diagram](./Demo/Blockdiagram.png)
+
+
 ![Specific function blocks](./Demo/Specific_block.png)
 # Demonstration
   ## PCB Implementation:
