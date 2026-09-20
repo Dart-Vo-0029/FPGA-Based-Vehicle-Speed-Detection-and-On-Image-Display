@@ -1,0 +1,196 @@
+[
+ {
+  "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Hpram_transfer.v",
+  "InstLine" : 1,
+  "InstName" : "Hpram_transfer",
+  "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Hpram_transfer.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "Hpram_transfer"
+ },
+ {
+  "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Semi_dual_port.v",
+  "InstLine" : 1,
+  "InstName" : "Semi_dual_port",
+  "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Semi_dual_port.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "Semi_dual_port"
+ },
+ {
+  "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_sdpb/gowin_sdpb.v",
+  "InstLine" : 9,
+  "InstName" : "Gowin_SDPB",
+  "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_sdpb/gowin_sdpb.v",
+  "ModuleLine" : 9,
+  "ModuleName" : "Gowin_SDPB"
+ },
+ {
+  "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_sp/gowin_sp.v",
+  "InstLine" : 9,
+  "InstName" : "Gowin_SP",
+  "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_sp/gowin_sp.v",
+  "ModuleLine" : 9,
+  "ModuleName" : "Gowin_SP"
+ },
+ {
+  "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+  "InstLine" : 23,
+  "InstName" : "video_top",
+  "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+  "ModuleLine" : 23,
+  "ModuleName" : "video_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 156,
+    "InstName" : "MCU_core",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_empu/gowin_empu.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_EMPU_Top"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 129,
+    "InstName" : "key_req_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/key_request.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "key_request"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 189,
+    "InstName" : "APB_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/APB_bus_regs.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "APB_bus_regs"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 221,
+    "InstName" : "testpattern_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/testpattern.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "testpattern"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 281,
+    "InstName" : "u_OV2640_Controller",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/OV2640_Controller.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "OV2640_Controller",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/OV2640_Controller.v",
+      "InstLine" : 32,
+      "InstName" : "LUT",
+      "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/OV2640_Registers.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "OV2640_Registers"
+     },
+     {
+      "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/OV2640_Controller.v",
+      "InstLine" : 45,
+      "InstName" : "I2C",
+      "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/I2C_Interface.v",
+      "ModuleLine" : 14,
+      "ModuleName" : "I2C_Interface"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 304,
+    "InstName" : "single_out_port",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Single_p.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Single_p"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 354,
+    "InstName" : "u_apb",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/APB_MCU_SPI.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "APB_MCU_SPI"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 373,
+    "InstName" : "Video_Frame_Buffer_Top_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_frame_buffer/video_frame_buffer.v",
+    "ModuleLine" : 3014,
+    "ModuleName" : "Video_Frame_Buffer_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_frame_buffer/video_frame_buffer.v",
+      "InstLine" : 3065,
+      "InstName" : "vfb_hyperram_wrapper_inst",
+      "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_frame_buffer/video_frame_buffer.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~vfb_hyperram_wrapper.Video_Frame_Buffer_Top"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 412,
+    "InstName" : "GW_PLLVR_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_pllvr/GW_PLLVR.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "GW_PLLVR"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 419,
+    "InstName" : "HyperRAM_Memory_Interface_Top_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/hyperram_memory_interface/hyperram_memory_interface.v",
+    "ModuleLine" : 3735,
+    "ModuleName" : "HyperRAM_Memory_Interface_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/hyperram_memory_interface/hyperram_memory_interface.v",
+      "InstLine" : 3810,
+      "InstName" : "u_hpram_top",
+      "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/hyperram_memory_interface/hyperram_memory_interface.v",
+      "ModuleLine" : 23,
+      "ModuleName" : "~hpram_top.HyperRAM_Memory_Interface_Top_"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 444,
+    "InstName" : "syn_gen_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/syn_code/syn_gen.v",
+    "ModuleLine" : 13,
+    "ModuleName" : "syn_gen"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 503,
+    "InstName" : "TMDS_PLLVR_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_pllvr/TMDS_PLLVR.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "TMDS_PLLVR"
+   },
+   {
+    "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+    "InstLine" : 520,
+    "InstName" : "DVI_TX_Top_inst",
+    "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/dvi_tx/dvi_tx.v",
+    "ModuleLine" : 1048,
+    "ModuleName" : "DVI_TX_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/dvi_tx/dvi_tx.v",
+      "InstLine" : 1079,
+      "InstName" : "rgb2dvi_inst",
+      "ModuleFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/dvi_tx/dvi_tx.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~rgb2dvi.DVI_TX_Top"
+     }
+    ]
+   }
+  ]
+ }
+]

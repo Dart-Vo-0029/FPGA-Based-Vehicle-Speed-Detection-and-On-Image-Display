@@ -1,0 +1,97 @@
+{
+ "Device" : "GW1NSR-4C",
+ "Files" : [
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/APB_MCU_SPI.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/APB_bus_regs.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Hpram_transfer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Semi_dual_port.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/Single_p.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/dvi_tx/dvi_tx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_empu/gowin_empu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_pllvr/GW_PLLVR.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_pllvr/TMDS_PLLVR.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_sdpb/gowin_sdpb.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/gowin_sp/gowin_sp.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/hyperram_memory_interface/hyperram_memory_interface.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/image_stream.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/key_request.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/I2C_Interface.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/OV2640_Controller.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/ov2640/OV2640_Registers.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/syn_code/syn_gen.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/testpattern.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_frame_buffer/video_frame_buffer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/src/video_top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/Hais_files/HK_252/DA_TN/lab/final_capstone/impl/temp/rtl_parser.result",
+ "Top" : "video_top",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NSR-4C" package="QFN48P" speed="6" partNumber="GW1NSR-LV4CQN48PC6/I5"/>
+    <FileList>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\APB_MCU_SPI.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\APB_bus_regs.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\Hpram_transfer.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\Semi_dual_port.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\Single_p.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\dvi_tx\dvi_tx.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\gowin_empu\gowin_empu.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\gowin_pllvr\GW_PLLVR.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\gowin_pllvr\TMDS_PLLVR.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\gowin_sdpb\gowin_sdpb.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\gowin_sp\gowin_sp.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\hyperram_memory_interface\hyperram_memory_interface.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\image_stream.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\key_request.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\ov2640\I2C_Interface.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\ov2640\OV2640_Controller.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\ov2640\OV2640_Registers.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\syn_code\syn_gen.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\testpattern.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\video_frame_buffer\video_frame_buffer.v" type="verilog"/>
+        <File path="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\src\video_top.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="50.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="E:\Hais_files\HK_252\DA_TN\lab\final_capstone\impl\gwsynthesis\dk_video.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="video_top"/>
+        <Option type="vcc" value="1.2"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>
