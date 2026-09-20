@@ -54,22 +54,27 @@ The PCB integrates the interfaces required for the:
 # Demonstration
   ## PCB Implementation:
   *Schematic overview*
+  
 ![Schematic overview](./Demo/Schematic.png) 
 
 
 *PCB layers*
+
 ![PCB layers](./Demo/Top&bottom_layers.png)
 
 
 *PCB overview*
+
 ![PCB overview](./Demo/Overview.png)
 
 
 *HDMI display test*
+
 ![HDMI display test](./Demo/HDMI_display.png)
 
 
 *Realistic measurement*
+
 ![Realistic measurement](./Demo/HDMI_display_2.png)
 
 
