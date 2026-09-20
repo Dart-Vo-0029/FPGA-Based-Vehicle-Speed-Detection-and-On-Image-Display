@@ -50,24 +50,21 @@ The PCB integrates the interfaces required for the:
 ![Specific function blocks](./Demo/Specific_block.png)
 # Demonstration
   ## PCB Implementation:
-![Schematic overview](./Demo/Schematic.png)
-
+![Schematic overview](./Demo/Schematic.png) 
+*Schematic overview*
 ![PCB layers](./Demo/Top&bottom_layers.png)
-
-![PCB layers](./Demo/Top&bottom_layers.png)
-
+*PCB layers*
 ![PCB overview](./Demo/Top&bottom_layers.png)
-
+*PCB overview*
 ![HDMI display test](./Demo/HDMI_display.png)
-
-![Real life measurement](./Demo/HDMI_display_2.png)
-
+*HDMI display test*
+![Realistic measurement](./Demo/HDMI_display_2.png)
+*Realistic measurement*
 
 #File structure
 .
 
 ```
-.
 ├── Demo/
 ├── final_capstone/
 │   ├── bench/          # Testbench files
