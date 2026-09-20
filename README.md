@@ -66,7 +66,8 @@ The PCB integrates the interfaces required for the:
 #File structure
 .
 
-
+```
+.
 ├── Demo/
 ├── final_capstone/
 │   ├── bench/          # Testbench files
@@ -77,3 +78,4 @@ The PCB integrates the interfaces required for the:
 │   └── src/            # Verilog source files
 ├── PCB_design/         # Schematic and PCB layout
 └── Python_code/        # Code for ASCII to Hex conversion and OV2640 SCCB configuration
+```
