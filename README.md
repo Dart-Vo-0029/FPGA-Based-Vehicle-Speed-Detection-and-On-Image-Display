@@ -46,21 +46,21 @@ The PCB integrates the interfaces required for the:
 * Power and peripheral connections
 
 ## System Architecture
-![Block diagram](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/Blockdiagram.png)
-![Specific function blocks](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/Specific_block.png)
+![Block diagram](./Demo/Blockdiagram.png)
+![Specific function blocks](./Demo/Specific_block.png)
 # Demonstration
   ## PCB Implementation:
-![Schematic overview](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/Schematic.png)
+![Schematic overview](./Demo/Schematic.png)
 
-![PCB layers](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/Top&bottom_layers.png)
+![PCB layers](./Demo/Top&bottom_layers.png)
 
-![PCB layers](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/Top&bottom_layers.png)
+![PCB layers](./Demo/Top&bottom_layers.png)
 
-![PCB overview](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/Top&bottom_layers.png)
+![PCB overview](./Demo/Top&bottom_layers.png)
 
-![HDMI display test](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/HDMI_display.png)
+![HDMI display test](./Demo/HDMI_display.png)
 
-![Real life measurement](FPGA-Based-Vehicle-Speed-Detection-and-On-Image-Display/Demo/HDMI_display_2.png)
+![Real life measurement](./Demo/HDMI_display_2.png)
 
 
 #File structure
